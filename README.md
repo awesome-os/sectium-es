@@ -77,3 +77,9 @@ node --test test/b8g-es.test.mts
 
 Part of the **Sectium** (`awesome-os/chromium.googlesource.com`) & **Awesome-OS** (`awesome-os/awesome-os`) sovereign systems stack â€” use `sectium-es` standalone for tiny systems scripts, or scale up to `Sectium` + `Awesome-OS` when you need the full browser/V8/OS stack.
 
+## Quick Start (Windows / Linux / macOS)
+
+```sh
+# Clone & enter repository (all platforms)
+git clone https://github.com/awesome-os/sectium-es.git && cd sectium-es
+```
