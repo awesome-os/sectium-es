@@ -83,3 +83,13 @@ Part of the **Sectium** (`awesome-os/chromium.googlesource.com`) & **Awesome-OS*
 # Clone & enter repository (all platforms)
 git clone https://github.com/awesome-os/sectium-es.git && cd sectium-es
 ```
+
+## Quick Install & Run (Windows / Linux / macOS)
+
+```sh
+# Install / hydrate from v11 CAS via holo-pm
+holo-pm install repository://github.com/awesome-os/sectium-es@main
+
+# Or project & run directly via holo-project (0-byte hardlink)
+holo-project "project://cpp/sectium-es?from=repository://github.com/awesome-os/sectium-es@main"
+```
