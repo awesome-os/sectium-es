@@ -1,4 +1,7 @@
-﻿# sectium-es
+> [!NOTE]
+> Consolidated into the unified Holo v11 monorepo at https://github.com/awesome-os/awesome-os (all existing v11 CAS release assets remain downloadable).
+
+# sectium-es
 
 > *"It's JavaScript, Jim â€” and this time we even left the 88 MB V8 monolith at home! Huge shout-out to Andrew Johnston (`billywhizz`, creator of `just-js` & `lo`) for proving JavaScript belongs at the systems layer."*
 
